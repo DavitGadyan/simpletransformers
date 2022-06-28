@@ -30,7 +30,7 @@ setup(
         # "datasets",
         "scipy",
         "scikit-learn",
-        "seqeval",
+        # "seqeval",
         "tensorboard",
         "pandas",
         "tokenizers",
