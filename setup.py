@@ -27,7 +27,7 @@ setup(
         "tqdm>=4.47.0",
         "regex",
         "transformers>=4.6.0",
-        "datasets",
+        # "datasets",
         "scipy",
         "scikit-learn",
         "seqeval",
