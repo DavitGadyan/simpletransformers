@@ -35,7 +35,7 @@ setup(
         "pandas",
         "tokenizers",
         # "wandb>=0.10.32",
-        "streamlit",
+         # "streamlit",
         "sentencepiece",
     ],
 )
