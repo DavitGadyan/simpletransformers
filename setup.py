@@ -34,7 +34,7 @@ setup(
         "tensorboard",
         "pandas",
         "tokenizers",
-        "wandb>=0.10.32",
+        # "wandb>=0.10.32",
         "streamlit",
         "sentencepiece",
     ],
